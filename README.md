@@ -29,12 +29,12 @@ App will be deployed on Heroku.
 ## Contribution
 Jason Lewis
 ## GitHub: 
-https://jasonlewis007.github.io/Project-2/
+https://jasonlewis007.github.io/note-taker/
 ## Heroku: 
 https://desolate-garden-23789.herokuapp.com/
 
 ## Screen shot:
-https://drive.google.com/file/d/1UD5KICntGBjaUf7vNlhd-0ylVoVsWuct/view
+https://drive.google.com/file/d/1N2y4SE-B-rAvkG5_EzjB_xIoiPYgjJwT/view
 
 
 
